@@ -16,18 +16,17 @@
 
 サービスが多く、サービス同士の連携なども可能となっているため、実際に操作することで AWS を身に着けていきたいと思い、この中から興味のあるハンズオンを選び学習を続けている。
 
-社内システムの CustArt では ECS を使用したコンテナ環境を提供している。
-今後の運用で必要となる可能性を考え、主にコンテナ回りのサービスを中心に学習を進めている。
-
-- [過去の学習記録](https://github.com/kashiwagi11/AWSLearning/tree/main)
-
 今期もハンズオンを 1 つ実施した。
 以下リンク先に学習記録を作成した。
 
 - [今期の学習記録](https://github.com/kashiwagi11/AWSLearning/tree/main/Introduction%20to%20Amazon%20ECS)
 
+社内システムの CustArt では ECS を使用したコンテナ環境を提供している。
+今後の運用で必要となる可能性を考え、主にコンテナ回りのサービスを中心に学習を進めている。
 実際に手を動かすハンズオンを実施することで、知識も深まり、今後の AWS 活用のタイミングで有効になると考えるため
 来期以降も継続して学習していきたいと考えている。
+
+- [過去の学習記録](https://github.com/kashiwagi11/AWSLearning/tree/main)
 
 ## 2. AWS Certified Solutions Architect 資格取得のための学習
 
